@@ -1,0 +1,19 @@
+{
+  "name": "node02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zjt523/zjt123.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zjt523/zjt123/issues"
+  },
+  "homepage": "https://github.com/zjt523/zjt123#readme"
+}
